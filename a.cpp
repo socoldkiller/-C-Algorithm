@@ -2,6 +2,5 @@
 using namespace std;
 int main()
 {
-    cout<<"last,Test"<<endl;
-
+	cout << "C-Algorithm" << endl;
 }
