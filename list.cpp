@@ -121,6 +121,7 @@ int main()
 {
 	vector<int>tmp = { 1,2,3,4 };
 	List<int>list(tmp);
+	//实现增删改查功能等等
 	list.insert(22, 0);
 	list.del(0);
 	list.display();
